@@ -7,6 +7,8 @@ public class Runner {
 
         System.out.println("git add . : staging araya alir");
 
+        System.out.println("__________________________");
+
 
     }
 }
