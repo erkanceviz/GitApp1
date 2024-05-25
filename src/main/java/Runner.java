@@ -12,6 +12,10 @@ public class Runner {
         // versiyon 4
         System.out.println("hi");
 
+        // versiyon
+
+        System.out.println("");
+
 
     }
 }
