@@ -1,4 +1,4 @@
-public class Runner {
+public class Runner2 {
     public static void main(String[] args) {
 
 // version 1 
@@ -9,8 +9,7 @@ public class Runner {
 
         System.out.println("__________________________");
 
-        // versiyon 4
-        System.out.println("hi");
+
 
 
     }
