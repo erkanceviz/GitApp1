@@ -19,6 +19,8 @@ public class Runner {
         // versiyon 6
         System.out.println("gg");
 
+        // versiyon
 
+        System.out.println("ds");
     }
 }
